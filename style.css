@@ -1,0 +1,43 @@
+.gallery img {
+    height: auto;
+    width: 200px;
+}
+
+.gallery-text {
+    text-align: center;
+    margin: 9px;
+}
+
+#About h1 {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+#home-start {
+    text-align: center;
+    border-radius: 80%;
+    
+}
+
+.gallery img:hover {
+    float: left;
+}
+
+#brand-icon img {
+    height: auto;
+    width: 50px;
+}
+
+footer {
+    color: black;
+}
+
+
+
+
+
+
+
